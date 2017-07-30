@@ -1,8 +1,12 @@
 #psoc-tabular | psoc switching in tabular format for easier parsing & analysis
 
+##HV - Horizontal-to-Vertical
+
 `hva-by-row` and `hvb-by-row` are sorted by horizontal wire (row). These are the fields:
 
     col row bit back_reg forw_reg
+
+##HC - Horizontal Channel
 
 `hc` connect to the UDB block: PLD0 input, PLD0 output, PLD1 output, PLD1 input, datapath, status, control, and clocking/reset.
 
