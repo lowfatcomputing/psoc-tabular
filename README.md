@@ -21,3 +21,9 @@
 
     row bit back_reg forw_reg
 
+##VS - Vertical Segmentation
+
+`vs` traverse to another UDB pair vertically. They are situated above and below the HV blocks in an interlocking pattern with respect to UDBB's and UDBA's.
+
+    col udb-a/b top/bot bit back_reg forw_reg
+
