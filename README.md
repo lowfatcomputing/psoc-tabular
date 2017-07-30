@@ -10,3 +10,10 @@
 
 `d` means forw/back
 `n` means the hc switch is below a UDB output
+
+##HS - Horizontal Segmentation
+
+`hs` traverses to another UDB pair horizontally. It it situated between the left and right hv blocks of a pair.
+
+    row bit back_reg forw_reg
+
