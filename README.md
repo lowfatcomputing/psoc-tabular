@@ -23,9 +23,9 @@
 
 ##VS - Vertical Segmentation
 
-`vs` traverse to another UDB pair vertically. They are situated above and below the HV blocks in an interlocking pattern with respect to UDBB's and UDBA's.
+`vs` traverse to another routing pair vertically. They are situated above and below the HV blocks in an interlocking pattern with respect to Pair B's and Pair A's.
 
-    col udb-a/b top/bot bit back_reg forw_reg
+    col b/a top/bot bit back_reg forw_reg
 
 ##pair - Pair Routing
 
