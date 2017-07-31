@@ -27,3 +27,9 @@
 
     col udb-a/b top/bot bit back_reg forw_reg
 
+##pair - Pair Routing
+
+Routing pairs follow a checkerboard pattern starting with **b** in the top left corner. This is important for selecting **hva** or **hvb**.
+
+    col row b/a reg
+
