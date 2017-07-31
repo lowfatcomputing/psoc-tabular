@@ -2,7 +2,7 @@
 
 ##HV - Horizontal-to-Vertical
 
-`hva-by-row` and `hvb-by-row` are sorted by horizontal wire (row). These are the fields:
+`hvb` and `hva` are sorted by horizontal wire (row). These are the fields:
 
     col row bit back_reg forw_reg
 
