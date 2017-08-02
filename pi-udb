@@ -1,0 +1,128 @@
+  0  u 0 0xC0 PLD0IN               x 0x00 IT0
+  1  l 4 0xC0 PLD0IN               x 0x80 IT0
+  2  u 1 0xC0 PLD0IN               x 0x04 IT1
+  3  l 5 0xC0 PLD0IN               x 0x84 IT1
+  4  u 2 0xC0 PLD0IN               x 0x08 IT2
+  5  l 6 0xC0 PLD0IN               x 0x88 IT2
+  6  u 3 0xC0 PLD0IN               x 0x0C IT3
+  7  l 7 0xC0 PLD0IN               x 0x8C IT3
+  8  u 0 0xC2 PLD0IN               x 0x10 IT4
+  9  l 4 0xC2 PLD0IN               x 0x90 IT4
+ 10  u 1 0xC2 PLD0IN               x 0x14 IT5
+ 11  l 5 0xC2 PLD0IN               x 0x94 IT5
+ 12  u 2 0xC2 PLD0IN               x 0x18 IT6
+ 13  l 6 0xC2 PLD0IN               x 0x98 IT6
+ 14  u 3 0xC2 PLD0IN               x 0x1C IT7
+ 15  l 7 0xC2 PLD0IN               x 0x9C IT7
+ 16  u 0 0xC4 PLD0IN               x 0x20 IT8
+ 17  l 4 0xC4 PLD0IN               x 0xA0 IT8
+ 18  u 1 0xC4 PLD0IN               x 0x24 IT9
+ 19  l 5 0xC4 PLD0IN               x 0xA4 IT9
+ 20  u 2 0xC4 PLD0IN               x 0x28 IT10
+ 21  l 6 0xC4 PLD0IN               x 0xA8 IT10
+ 22  u 3 0xC4 PLD0IN               x 0x2C IT11
+ 23  l 7 0xC4 PLD0IN               x 0xAC IT11
+ 24  u 0 0x3E U0_PLD0MC_CFG_BYPASS x 0x30 ORT0
+ 25  l 0 0xBE U1_PLD0MC_CFG_BYPASS x 0xB0 ORT0
+ 26  u 2 0x3E U0_PLD0MC_CFG_BYPASS x 0x32 ORT1
+ 27  l 2 0xBE U1_PLD0MC_CFG_BYPASS x 0xB2 ORT1
+ 28  u 4 0x3E U0_PLD0MC_CFG_BYPASS x 0x34 ORT2
+ 29  l 4 0xBE U1_PLD0MC_CFG_BYPASS x 0xB4 ORT2
+ 30  u 6 0x3E U0_PLD0MC_CFG_BYPASS x 0x36 ORT3
+ 31  l 6 0xBE U1_PLD0MC_CFG_BYPASS x 0xB6 ORT3
+ 32  u 6 0x3F U0_PLD1MC_CFG_BYPASS x 0x37 ORT3
+ 33  l 6 0xBF U1_PLD1MC_CFG_BYPASS x 0xB7 ORT3
+ 34  u 4 0x3F U0_PLD1MC_CFG_BYPASS x 0x35 ORT2
+ 35  l 4 0xBF U1_PLD1MC_CFG_BYPASS x 0xB5 ORT2
+ 36  u 2 0x3F U0_PLD1MC_CFG_BYPASS x 0x33 ORT1
+ 37  l 2 0xBF U1_PLD1MC_CFG_BYPASS x 0xB3 ORT1
+ 38  u 0 0x3F U0_PLD1MC_CFG_BYPASS x 0x31 ORT0
+ 39  l 0 0xBF U1_PLD1MC_CFG_BYPASS x 0xB1 ORT0
+ 40  u 3 0xC4 PLD1IN               x 0x2D IT11
+ 41  l 7 0xC4 PLD1IN               x 0xAD IT11
+ 42  u 2 0xC4 PLD1IN               x 0x29 IT10
+ 43  l 6 0xC4 PLD1IN               x 0xA9 IT10
+ 44  u 1 0xC4 PLD1IN               x 0x25 IT9
+ 45  l 5 0xC4 PLD1IN               x 0xA5 IT9
+ 46  u 0 0xC4 PLD1IN               x 0x21 IT8
+ 47  l 4 0xC4 PLD1IN               x 0xA1 IT8
+ 48  u 3 0xC2 PLD1IN               x 0x1D IT7
+ 49  l 7 0xC2 PLD1IN               x 0x9D IT7
+ 50  u 6 0xC2 PLD1IN               x 0x19 IT6
+ 51  l 3 0xC2 PLD1IN               x 0x95 IT6
+ 52  u 1 0xC2 PLD1IN               x 0x15 IT5
+ 53  l 5 0xC2 PLD1IN               x 0x95 IT5
+ 54  u 0 0xC2 PLD1IN               x 0x11 IT4
+ 55  l 4 0xC2 PLD1IN               x 0x91 IT4
+ 56  u 3 0xC0 PLD1IN               x 0x0D IT3
+ 57  l 7 0xC0 PLD1IN               x 0x8D IT3
+ 58  u 2 0xC0 PLD1IN               x 0x09 IT2
+ 59  l 6 0xC0 PLD1IN               x 0x89 IT2
+ 60  u 1 0xC0 PLD1IN               x 0x05 IT1
+ 61  l 5 0xC0 PLD1IN               x 0x85 IT1
+ 62  u 0 0xC0 PLD1IN               x 0x01 IT0
+ 63  l 4 0xC0 PLD1IN               x 0x81 IT0
+ 64  u 0 0xD0 DPIN0
+ 65  l 4 0xD0 DPIN0
+ 66  u 1 0xD0 DPIN0
+ 67  l 5 0xD0 DPIN0
+ 68  u 2 0xD0 DPIN0
+ 69  l 6 0xD0 DPIN0
+ 70  u 3 0xD0 DPIN0
+ 71  l 7 0xD0 DPIN0
+ 72  u 2 0xD2 DPIN1
+ 73  l 5 0xD2 DPIN1
+ 74  u 3 0xD2 DPIN1
+ 75  l 4 0xD2 DPIN1
+ 76  u        DPOUT
+ 77  l        DPOUT
+ 78  u        DPOUT
+ 79  l        DPOUT
+ 80  u        DPOUT
+ 81  l        DPOUT
+ 82  u        DPOUT
+ 83  l        DPOUT
+ 84  u        DPOUT
+ 85  l        DPOUT
+ 86  u        DPOUT
+ 87  l        DPOUT
+ 88  u 0 0xD6 SCIN
+ 89  l 4 0xD6 SCIN
+ 90  u 0 0xD6 SCIN
+ 91  l 4 0xD6 SCIN
+ 92  u 1 0xD6 SCIN
+ 93  l 5 0xD6 SCIN
+ 94  u 1 0xD6 SCIN
+ 95  l 5 0xD6 SCIN
+ 96  u 2 0xD6 SCIN
+ 97  l 6 0xD6 SCIN
+ 98  u 2 0xD6 SCIN
+ 99  l 6 0xD6 SCIN
+100  u 3 0xD6 SCIN
+101  l 7 0xD6 SCIN
+102  u 3 0xD6 SCIN
+103  l 7 0xD6 SCIN
+104  u        CTL
+105  l        CTL
+106  u        CTL
+107  l        CTL
+108  u        CTL
+109  l        CTL
+110  u        CTL
+111  l        CTL
+112  u        CTL
+113  l        CTL
+114  u        CTL
+115  l        CTL
+116  u        CTL
+117  l        CTL
+118  u        CTL
+119  l        CTL
+120  u 0 0xDE RCIN
+121  l 4 0xDE RCIN
+122  u 1 0xDE RCIN
+123  l 5 0xDE RCIN
+124  u 2 0xDE RCIN
+125  l 6 0xDE RCIN
+126  u 3 0xDE RCIN
+127  l 7 0xDE RCIN

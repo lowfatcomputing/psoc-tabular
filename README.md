@@ -33,3 +33,7 @@ Routing pairs follow a checkerboard pattern starting with **b** in the top left 
 
     col row b/a reg
 
+##pi-udb - Port Interfacing between Horizontal Channel and UDB's
+
+    col u/l bit reg name bit reg name ...
+
