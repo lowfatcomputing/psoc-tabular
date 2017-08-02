@@ -37,3 +37,7 @@ Routing pairs follow a checkerboard pattern starting with **b** in the top left 
 
     col u/l bit reg name bit reg name ...
 
+#contact
+
+I'm Andreas Wagner, you can email me at andreas.wagner@lowfatcomputing.org or ping me (pointfree) on freenode.
+
