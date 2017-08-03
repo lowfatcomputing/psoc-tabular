@@ -37,6 +37,8 @@ Routing pairs follow a checkerboard pattern starting with **b** in the top left 
 
     col u/l bit reg name bit reg name ...
 
+You will notice two registers for each IT. The +0x80 register is for U1 UDB's and the other is for U0 UDB's.
+
 #contact
 
 I'm Andreas Wagner, you can email me at andreas.wagner@lowfatcomputing.org or ping me (pointfree) on freenode.
