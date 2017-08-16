@@ -4,7 +4,7 @@
 
 `hvb` and `hva` are sorted by vertical wire (col). These are the fields:
 
-    col row bit reg
+    col row bit reg name
 
 ## HC - Horizontal Channel
 
@@ -31,7 +31,7 @@
 
 Routing pairs follow a checkerboard pattern starting with **b** in the top left corner. This is important for selecting **hva** or **hvb**.
 
-    col row b/a reg
+    col row b/a reg name
 
 ## pi-udb - Port Interfacing between Horizontal Channel and UDB's
 
