@@ -10,7 +10,7 @@
 
 `hc` connect to the UDB block: PLD0 input, PLD0 output, PLD1 output, PLD1 input, datapath, status, control, and clocking/reset.
 
-    col row direction bit reg
+    col row direction bit reg name
 
 `d` means forw/back
 `n` means the hc switch is below a UDB output
