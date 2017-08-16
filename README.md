@@ -4,7 +4,7 @@
 
 `hvb` and `hva` are sorted by vertical wire (col). These are the fields:
 
-    col row bit back_reg forw_reg
+    col row bit reg
 
 ## HC - Horizontal Channel
 
