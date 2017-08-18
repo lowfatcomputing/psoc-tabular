@@ -1,24 +1,24 @@
-b 0 0 na 0x4D00 DSI13
-a 0 1 na 0x4C00 DSI12
-b 0 2 na 0x4700 DSI7
-a 0 3 na 0x4600 DSI6
-b 0 4 na 0x4500 DSI5
-a 0 5 na 0x4400 DSI4
-a 1 0 1  0x1B00 B1_P5
-b 1 1 1  0x1900 B1_P9
-a 1 2 0  0x0900 B0_P4
-b 1 3 0  0x0B00 B0_P5
-a 1 4 0  0x0D00 B0_P6
-b 1 5 0  0x0F00 B0_P7
-b 2 0 1  0x1500 B1_P2
-a 2 1 1  0x1700 B1_P3
-b 2 2 0  0x0700 B0_P3
-a 2 3 0  0x0500 B0_P2
-b 2 4 0  0x0300 B0_P1
-a 2 5 0  0x0100 B0_P0
-a 3 0 na 0x4900 DSI9
-b 3 1 na 0x4800 DSI8
-a 3 2 na 0x4300 DSI3
-b 3 3 na 0x4200 DSI2
-a 3 4 na 0x4100 DSI1
-b 3 5 na 0x4000 DSI0
+:pair_routing b 0 0 na 0x4D00 DSI13
+:pair_routing a 0 1 na 0x4C00 DSI12
+:pair_routing b 0 2 na 0x4700 DSI7
+:pair_routing a 0 3 na 0x4600 DSI6
+:pair_routing b 0 4 na 0x4500 DSI5
+:pair_routing a 0 5 na 0x4400 DSI4
+:pair_routing a 1 0 1  0x1B00 B1_P5
+:pair_routing b 1 1 1  0x1900 B1_P9
+:pair_routing a 1 2 0  0x0900 B0_P4
+:pair_routing b 1 3 0  0x0B00 B0_P5
+:pair_routing a 1 4 0  0x0D00 B0_P6
+:pair_routing b 1 5 0  0x0F00 B0_P7
+:pair_routing b 2 0 1  0x1500 B1_P2
+:pair_routing a 2 1 1  0x1700 B1_P3
+:pair_routing b 2 2 0  0x0700 B0_P3
+:pair_routing a 2 3 0  0x0500 B0_P2
+:pair_routing b 2 4 0  0x0300 B0_P1
+:pair_routing a 2 5 0  0x0100 B0_P0
+:pair_routing a 3 0 na 0x4900 DSI9
+:pair_routing b 3 1 na 0x4800 DSI8
+:pair_routing a 3 2 na 0x4300 DSI3
+:pair_routing b 3 3 na 0x4200 DSI2
+:pair_routing a 3 4 na 0x4100 DSI1
+:pair_routing b 3 5 na 0x4000 DSI0

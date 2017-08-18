@@ -1,128 +1,128 @@
-  0  u 0 0xC0 i ROUTE_PLD0IN0             
-  1  l 7 0xC0 i ROUTE_PLD0IN0             
-  2  u 1 0xC0 i ROUTE_PLD0IN0             
-  3  l 6 0xC0 i ROUTE_PLD0IN0             
-  4  u 2 0xC0 i ROUTE_PLD0IN0             
-  5  l 5 0xC0 i ROUTE_PLD0IN0             
-  6  u 3 0xC0 i ROUTE_PLD0IN0             
-  7  l 4 0xC0 i ROUTE_PLD0IN0             
-  8  u 0 0xC2 i ROUTE_PLD0IN1             
-  9  l 7 0xC2 i ROUTE_PLD0IN1             
- 10  u 1 0xC2 i ROUTE_PLD0IN1             
- 11  l 6 0xC2 i ROUTE_PLD0IN1             
- 12  u 2 0xC2 i ROUTE_PLD0IN1             
- 13  l 5 0xC2 i ROUTE_PLD0IN1             
- 14  u 3 0xC2 i ROUTE_PLD0IN1             
- 15  l 4 0xC2 i ROUTE_PLD0IN1             
- 16  u 0 0xC4 i ROUTE_PLD0IN2             
- 17  l 7 0xC4 i ROUTE_PLD0IN2             
- 18  u 1 0xC4 i ROUTE_PLD0IN2             
- 19  l 6 0xC4 i ROUTE_PLD0IN2             
- 20  u 2 0xC4 i ROUTE_PLD0IN2             
- 21  l 5 0xC4 i ROUTE_PLD0IN2             
- 22  u 3 0xC4 i ROUTE_PLD0IN2             
- 23  l 4 0xC4 i ROUTE_PLD0IN2             
- 24  u 0 0x3E o U0_PLD0MC_CFG_BYPASS
- 25  l 0 0xBE o U1_PLD0MC_CFG_BYPASS
- 26  u 2 0x3E o U0_PLD0MC_CFG_BYPASS
- 27  l 2 0xBE o U1_PLD0MC_CFG_BYPASS
- 28  u 4 0x3E o U0_PLD0MC_CFG_BYPASS
- 29  l 4 0xBE o U1_PLD0MC_CFG_BYPASS
- 30  u 6 0x3E o U0_PLD0MC_CFG_BYPASS
- 31  l 6 0xBE o U1_PLD0MC_CFG_BYPASS
- 32  u 6 0x3F o U0_PLD1MC_CFG_BYPASS
- 33  l 6 0xBF o U1_PLD1MC_CFG_BYPASS
- 34  u 4 0x3F o U0_PLD1MC_CFG_BYPASS
- 35  l 4 0xBF o U1_PLD1MC_CFG_BYPASS
- 36  u 2 0x3F o U0_PLD1MC_CFG_BYPASS
- 37  l 2 0xBF o U1_PLD1MC_CFG_BYPASS
- 38  u 0 0x3F o U0_PLD1MC_CFG_BYPASS
- 39  l 0 0xBF o U1_PLD1MC_CFG_BYPASS
- 40  u 3 0xCE i ROUTE_PLD1IN2             
- 41  l 4 0xCE i ROUTE_PLD1IN2             
- 42  u 2 0xCE i ROUTE_PLD1IN2             
- 43  l 5 0xCE i ROUTE_PLD1IN2             
- 44  u 1 0xCE i ROUTE_PLD1IN2             
- 45  l 6 0xCE i ROUTE_PLD1IN2             
- 46  u 0 0xCE i ROUTE_PLD1IN2             
- 47  l 7 0xCE i ROUTE_PLD1IN2             
- 48  u 3 0xCC i ROUTE_PLD1IN1             
- 49  l 4 0xCC i ROUTE_PLD1IN1             
- 50  u 2 0xCC i ROUTE_PLD1IN1             
- 51  l 5 0xCC i ROUTE_PLD1IN1             
- 52  u 1 0xCC i ROUTE_PLD1IN1             
- 53  l 6 0xCC i ROUTE_PLD1IN1             
- 54  u 0 0xCC i ROUTE_PLD1IN1             
- 55  l 7 0xCC i ROUTE_PLD1IN1             
- 56  u 3 0xCA i ROUTE_PLD1IN0             
- 57  l 7 0xCA i ROUTE_PLD1IN0             
- 58  u 6 0xCA i ROUTE_PLD1IN0             
- 59  l 3 0xCA i ROUTE_PLD1IN0             
- 60  u 1 0xCA i ROUTE_PLD1IN0             
- 61  l 5 0xCA i ROUTE_PLD1IN0             
- 62  u 0 0xCA i ROUTE_PLD1IN0             
- 63  l 4 0xCA i ROUTE_PLD1IN0             
- 64  u 0 0xD0 i ROUTE_DPIN0               
- 65  l 7 0xD0 i ROUTE_DPIN0               
- 66  u 1 0xD0 i ROUTE_DPIN0               
- 67  l 6 0xD0 i ROUTE_DPIN0               
- 68  u 2 0xD0 i ROUTE_DPIN0               
- 69  l 5 0xD0 i ROUTE_DPIN0               
- 70  u 3 0xD0 i ROUTE_DPIN0               
- 71  l 4 0xD0 i ROUTE_DPIN0               
- 72  u 2 0xD2 i ROUTE_DPIN1               
- 73  l 4 0xD2 i ROUTE_DPIN1               
- 74  u 3 0xD2 i ROUTE_DPIN1               
- 75  l 5 0xD2 i ROUTE_DPIN1               
- 76  u        o DPOUT               
- 77  l        o DPOUT               
- 78  u        o DPOUT               
- 79  l        o DPOUT               
- 80  u        o DPOUT               
- 81  l        o DPOUT               
- 82  u        o DPOUT               
- 83  l        o DPOUT               
- 84  u        o DPOUT               
- 85  l        o DPOUT               
- 86  u        o DPOUT               
- 87  l        o DPOUT               
- 88  u 0 0xD6 i ROUTE_SCIN                
- 89  l 7 0xD6 i ROUTE_SCIN                
- 90  u 0 0xD6 i ROUTE_SCIN                
- 91  l 7 0xD6 i ROUTE_SCIN                
- 92  u 1 0xD6 i ROUTE_SCIN                
- 93  l 6 0xD6 i ROUTE_SCIN                
- 94  u 1 0xD6 i ROUTE_SCIN                
- 95  l 6 0xD6 i ROUTE_SCIN                
- 96  u 2 0xD6 i ROUTE_SCIN                
- 97  l 5 0xD6 i ROUTE_SCIN                
- 98  u 2 0xD6 i ROUTE_SCIN                
- 99  l 5 0xD6 i ROUTE_SCIN                
-100  u 3 0xD6 i ROUTE_SCIN                
-101  l 4 0xD6 i ROUTE_SCIN                
-102  u 3 0xD6 i ROUTE_SCIN                
-103  l 4 0xD6 i ROUTE_SCIN                
-104  u        o CTL                 
-105  l        o CTL                 
-106  u        o CTL                 
-107  l        o CTL                 
-108  u        o CTL                 
-109  l        o CTL                 
-110  u        o CTL                 
-111  l        o CTL                 
-112  u        o CTL                 
-113  l        o CTL                 
-114  u        o CTL                 
-115  l        o CTL                 
-116  u        o CTL                 
-117  l        o CTL                 
-118  u        o CTL                 
-119  l        o CTL                 
-120  u 0 0xDE i ROUTE_RCIN                
-121  l 7 0xDE i ROUTE_RCIN                
-122  u 1 0xDE i ROUTE_RCIN                
-123  l 6 0xDE i ROUTE_RCIN                
-124  u 2 0xDE i ROUTE_RCIN                
-125  l 5 0xDE i ROUTE_RCIN                
-126  u 3 0xDE i ROUTE_RCIN                
-127  l 4 0xDE i ROUTE_RCIN                
+:pi_udb i   0 0 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   1 7 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   2 1 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   3 6 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   4 2 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   5 5 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   6 3 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   7 4 0xC0 ROUTE_PLD0IN0             
+:pi_udb i   8 0 0xC2 ROUTE_PLD0IN1             
+:pi_udb i   9 7 0xC2 ROUTE_PLD0IN1             
+:pi_udb i  10 1 0xC2 ROUTE_PLD0IN1             
+:pi_udb i  11 6 0xC2 ROUTE_PLD0IN1             
+:pi_udb i  12 2 0xC2 ROUTE_PLD0IN1             
+:pi_udb i  13 5 0xC2 ROUTE_PLD0IN1             
+:pi_udb i  14 3 0xC2 ROUTE_PLD0IN1             
+:pi_udb i  15 4 0xC2 ROUTE_PLD0IN1             
+:pi_udb i  16 0 0xC4 ROUTE_PLD0IN2             
+:pi_udb i  17 7 0xC4 ROUTE_PLD0IN2             
+:pi_udb i  18 1 0xC4 ROUTE_PLD0IN2             
+:pi_udb i  19 6 0xC4 ROUTE_PLD0IN2             
+:pi_udb i  20 2 0xC4 ROUTE_PLD0IN2             
+:pi_udb i  21 5 0xC4 ROUTE_PLD0IN2             
+:pi_udb i  22 3 0xC4 ROUTE_PLD0IN2             
+:pi_udb i  23 4 0xC4 ROUTE_PLD0IN2             
+:pi_udb o  24 0 0x3E U0_PLD0MC_CFG_BYPASS
+:pi_udb o  25 0 0xBE U1_PLD0MC_CFG_BYPASS
+:pi_udb o  26 2 0x3E U0_PLD0MC_CFG_BYPASS
+:pi_udb o  27 2 0xBE U1_PLD0MC_CFG_BYPASS
+:pi_udb o  28 4 0x3E U0_PLD0MC_CFG_BYPASS
+:pi_udb o  29 4 0xBE U1_PLD0MC_CFG_BYPASS
+:pi_udb o  30 6 0x3E U0_PLD0MC_CFG_BYPASS
+:pi_udb o  31 6 0xBE U1_PLD0MC_CFG_BYPASS
+:pi_udb o  32 6 0x3F U0_PLD1MC_CFG_BYPASS
+:pi_udb o  33 6 0xBF U1_PLD1MC_CFG_BYPASS
+:pi_udb o  34 4 0x3F U0_PLD1MC_CFG_BYPASS
+:pi_udb o  35 4 0xBF U1_PLD1MC_CFG_BYPASS
+:pi_udb o  36 2 0x3F U0_PLD1MC_CFG_BYPASS
+:pi_udb o  37 2 0xBF U1_PLD1MC_CFG_BYPASS
+:pi_udb o  38 0 0x3F U0_PLD1MC_CFG_BYPASS
+:pi_udb o  39 0 0xBF U1_PLD1MC_CFG_BYPASS
+:pi_udb i  40 3 0xCE ROUTE_PLD1IN2             
+:pi_udb i  41 4 0xCE ROUTE_PLD1IN2             
+:pi_udb i  42 2 0xCE ROUTE_PLD1IN2             
+:pi_udb i  43 5 0xCE ROUTE_PLD1IN2             
+:pi_udb i  44 1 0xCE ROUTE_PLD1IN2             
+:pi_udb i  45 6 0xCE ROUTE_PLD1IN2             
+:pi_udb i  46 0 0xCE ROUTE_PLD1IN2             
+:pi_udb i  47 7 0xCE ROUTE_PLD1IN2             
+:pi_udb i  48 3 0xCC ROUTE_PLD1IN1             
+:pi_udb i  49 4 0xCC ROUTE_PLD1IN1             
+:pi_udb i  50 2 0xCC ROUTE_PLD1IN1             
+:pi_udb i  51 5 0xCC ROUTE_PLD1IN1             
+:pi_udb i  52 1 0xCC ROUTE_PLD1IN1             
+:pi_udb i  53 6 0xCC ROUTE_PLD1IN1             
+:pi_udb i  54 0 0xCC ROUTE_PLD1IN1             
+:pi_udb i  55 7 0xCC ROUTE_PLD1IN1             
+:pi_udb i  56 3 0xCA ROUTE_PLD1IN0             
+:pi_udb i  57 7 0xCA ROUTE_PLD1IN0             
+:pi_udb i  58 6 0xCA ROUTE_PLD1IN0             
+:pi_udb i  59 3 0xCA ROUTE_PLD1IN0             
+:pi_udb i  60 1 0xCA ROUTE_PLD1IN0             
+:pi_udb i  61 5 0xCA ROUTE_PLD1IN0             
+:pi_udb i  62 0 0xCA ROUTE_PLD1IN0             
+:pi_udb i  63 4 0xCA ROUTE_PLD1IN0             
+:pi_udb i  64 0 0xD0 ROUTE_DPIN0               
+:pi_udb i  65 7 0xD0 ROUTE_DPIN0               
+:pi_udb i  66 1 0xD0 ROUTE_DPIN0               
+:pi_udb i  67 6 0xD0 ROUTE_DPIN0               
+:pi_udb i  68 2 0xD0 ROUTE_DPIN0               
+:pi_udb i  69 5 0xD0 ROUTE_DPIN0               
+:pi_udb i  70 3 0xD0 ROUTE_DPIN0               
+:pi_udb i  71 4 0xD0 ROUTE_DPIN0               
+:pi_udb i  72 2 0xD2 ROUTE_DPIN1               
+:pi_udb i  73 4 0xD2 ROUTE_DPIN1               
+:pi_udb i  74 3 0xD2 ROUTE_DPIN1               
+:pi_udb i  75 5 0xD2 ROUTE_DPIN1               
+:pi_udb o  76 x    x DPOUT               
+:pi_udb o  77 x    x DPOUT               
+:pi_udb o  78 x    x DPOUT               
+:pi_udb o  79 x    x DPOUT               
+:pi_udb o  80 x    x DPOUT               
+:pi_udb o  81 x    x DPOUT               
+:pi_udb o  82 x    x DPOUT               
+:pi_udb o  83 x    x DPOUT               
+:pi_udb o  84 x    x DPOUT               
+:pi_udb o  85 x    x DPOUT               
+:pi_udb o  86 x    x DPOUT               
+:pi_udb o  87 x    x DPOUT               
+:pi_udb i  88 0 0xD6 ROUTE_SCIN                
+:pi_udb i  89 7 0xD6 ROUTE_SCIN                
+:pi_udb i  90 0 0xD6 ROUTE_SCIN                
+:pi_udb i  91 7 0xD6 ROUTE_SCIN                
+:pi_udb i  92 1 0xD6 ROUTE_SCIN                
+:pi_udb i  93 6 0xD6 ROUTE_SCIN                
+:pi_udb i  94 1 0xD6 ROUTE_SCIN                
+:pi_udb i  95 6 0xD6 ROUTE_SCIN                
+:pi_udb i  96 2 0xD6 ROUTE_SCIN                
+:pi_udb i  97 5 0xD6 ROUTE_SCIN                
+:pi_udb i  98 2 0xD6 ROUTE_SCIN                
+:pi_udb i  99 5 0xD6 ROUTE_SCIN                
+:pi_udb i 100 3 0xD6 ROUTE_SCIN                
+:pi_udb i 101 4 0xD6 ROUTE_SCIN                
+:pi_udb i 102 3 0xD6 ROUTE_SCIN                
+:pi_udb i 103 4 0xD6 ROUTE_SCIN                
+:pi_udb o 104 x    x CTL                 
+:pi_udb o 105 x    x CTL                 
+:pi_udb o 106 x    x CTL                 
+:pi_udb o 107 x    x CTL                 
+:pi_udb o 108 x    x CTL                 
+:pi_udb o 109 x    x CTL                 
+:pi_udb o 110 x    x CTL                 
+:pi_udb o 111 x    x CTL                 
+:pi_udb o 112 x    x CTL                 
+:pi_udb o 113 x    x CTL                 
+:pi_udb o 114 x    x CTL                 
+:pi_udb o 115 x    x CTL                 
+:pi_udb o 116 x    x CTL                 
+:pi_udb o 117 x    x CTL                 
+:pi_udb o 118 x    x CTL                 
+:pi_udb o 119 x    x CTL                 
+:pi_udb i 120 0 0xDE ROUTE_RCIN                
+:pi_udb i 121 7 0xDE ROUTE_RCIN                
+:pi_udb i 122 1 0xDE ROUTE_RCIN                
+:pi_udb i 123 6 0xDE ROUTE_RCIN                
+:pi_udb i 124 2 0xDE ROUTE_RCIN                
+:pi_udb i 125 5 0xDE ROUTE_RCIN                
+:pi_udb i 126 3 0xDE ROUTE_RCIN                
+:pi_udb i 127 4 0xDE ROUTE_RCIN                

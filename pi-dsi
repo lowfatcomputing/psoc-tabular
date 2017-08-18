@@ -1,128 +1,128 @@
-  0  ( 0,   2)          DSIINP0: 0xC0'7, DSIINP0: 0xC0'0
-  1  ( 1,   3)          DSIINP0: 0xC0'6, DSIINP0: 0xC0'1
-  2  ( 0,   2)          DSIINP0: 0xC0'5, DSIINP0: 0xC0'2
-  3  ( 1,   3)          DSIINP0: 0xC0'4, DSIINP0: 0xC0'3
-  4  ( 4,   6)          DSIINP0: 0xC0'4, DSIINP0: 0xC0'3
-  5  ( 5,   7)          DSIINP0: 0xC0'5, DSIINP0: 0xC0'2
-  6  ( 4,   6)          DSIINP0: 0xC0'6, DSIINP0: 0xC0'1
-  7  ( 5,   7)          DSIINP0: 0xC0'7, DSIINP0: 0xC0'0
-  8  ( 8,  10)          DSIINP1: 0xC2'4, DSIINP1: 0xC2'3
-  9  ( 9,  11)          DSIINP1: 0xC2'5, DSIINP1: 0xC2'2
- 10  ( 8,  10)          DSIINP1: 0xC2'6, DSIINP1: 0xC2'1
- 11  ( 9,  11)          DSIINP1: 0xC2'7, DSIINP1: 0xC2'0
- 12  (12,  14)          DSIINP1: 0xC2'4, DSIINP1: 0xC2'3
- 13  (13,  15)          DSIINP1: 0xC2'5, DSIINP1: 0xC2'2
- 14  (12,  14)          DSIINP1: 0xC2'6, DSIINP1: 0xC2'1
- 15  (13,  15)          DSIINP1: 0xC2'7, DSIINP1: 0xC2'0
- 16  (16,  18)          DSIINP2: 0xC4'7, DSIINP2: 0xC4'0
- 17  (17,  19)          DSIINP2: 0xC4'6, DSIINP2: 0xC4'1
- 18  (16,  18)          DSIINP2: 0xC4'5, DSIINP2: 0xC4'2
- 19  (17,  19)          DSIINP2: 0xC4'4, DSIINP2: 0xC4'3
- 20  (20,  22)          DSIINP2: 0xC4'4, DSIINP2: 0xC4'3
- 21  (21,  23)          DSIINP2: 0xC4'5, DSIINP2: 0xC4'2
- 22  (20,  22)          DSIINP2: 0xC4'6, DSIINP2: 0xC4'1
- 23  (21,  23)          DSIINP2: 0xC4'7, DSIINP2: 0xC4'0
- 24  (24,  26)          DSIINP3: 0xC6'7, DSIINP3: 0xC6'0
- 25  (25,  27)          DSIINP3: 0xC6'6, DSIINP3: 0xC6'1
- 26  (24,  26)          DSIINP3: 0xC6'5, DSIINP3: 0xC6'2
- 27  (25,  27)          DSIINP3: 0xC6'4, DSIINP3: 0xC6'3
- 28  (28,  30)          DSIINP3: 0xC6'4, DSIINP3: 0xC6'3
- 29  (29,  31)          DSIINP3: 0xC6'5, DSIINP3: 0xC6'2
- 30  (28,  30)          DSIINP3: 0xC6'6, DSIINP3: 0xC6'1
- 31  (29,  31)          DSIINP3: 0xC6'7, DSIINP3: 0xC6'0
- 32  (32,  34)          DSIINP4: 0xC8'4, DSIINP4: 0xC8'3
- 33  (33,  35)          DSIINP4: 0xC8'5, DSIINP4: 0xC8'2
- 34  (32,  34)          DSIINP4: 0xC8'6, DSIINP4: 0xC8'1
- 35  (33,  35)          DSIINP4: 0xC8'7, DSIINP4: 0xC8'0
- 36  (36,  38)          DSIINP4: 0xC8'4, DSIINP4: 0xC8'3
- 37  (37,  39)          DSIINP4: 0xC8'5, DSIINP4: 0xC8'2
- 38  (36,  38)          DSIINP4: 0xC8'6, DSIINP4: 0xC8'1
- 39  (37,  39)          DSIINP4: 0xC8'7, DSIINP4: 0xC8'0
- 40  (40,  42)          DSIINP5: 0xCA'7, DSIINP5: 0xCA'0
- 41  (41,  43)          DSIINP5: 0xCA'6, DSIINP5: 0xCA'1
- 42  (40,  42)          DSIINP5: 0xCA'5, DSIINP5: 0xCA'2
- 43  (41,  43)          DSIINP5: 0xCA'4, DSIINP5: 0xCA'3
- 44  (44,  46)          DSIINP5: 0xCA'4, DSIINP5: 0xCA'3
- 45  (45,  47)          DSIINP5: 0xCA'5, DSIINP5: 0xCA'2
- 46  (44,  46)          DSIINP5: 0xCA'6, DSIINP5: 0xCA'1
- 47  (45,  47)          DSIINP5: 0xCA'7, DSIINP5: 0xCA'0
- 48  (48,  50)         DSIOUTP0: 0xCC'5 -
- 49  (49,  51)         DSIOUTP0: 0xCC'6 -
- 50  (48,  50)         DSIOUTP0: 0xCC'5 -
- 51  (49,  51)         DSIOUTP0: 0xCC'6 -
- 52  (52,  54)         DSIOUTP0: 0xCC'7 -
- 53  (53,  55)         DSIOUTP0: 0xCE' 
- 54  (52,  54)         DSIOUTP0: 0xCC'7 -
- 55  (53,  55)         DSIOUTP0: 0xCC'
- 56  (56,  58)         DSIOUTP1: 0xCE'7 -
- 57  (57,  59)         DSIOUTP1: 0xCE'
- 58  (56,  58)         DSIOUTP1: 0xCE'7 -
- 59  (57,  59)         DSIOUTP1: 0xD0' 
- 60  (60,  62)         DSIOUTP1: 0xD0' 
- 61  (61,  63)         DSIOUTP1: 0xD0'5
- 62  (60,  62)         DSIOUTP1: 0xD0'6
- 63  (61,  63)         DSIOUTP1: 0xD2' 
- 64  (64,  66)         DSIOUTP2: 0xD0' 
- 65  (65,  67)         DSIOUTP2: 0xD0'4 -
- 66  (64,  66)         DSIOUTP2: 0xD0' 
- 67  (65,  67)         DSIOUTP2: 0xD0'4 -
- 68  (68,  70)         DSIOUTP2: 0xD0'2 -
- 69  (69,  71)         DSIOUTP2: 0xD0'
- 70  (68,  70)         DSIOUTP2: 0xD0'2 -
- 71  (69,  71)         DSIOUTP2: 0xD0'
- 72  (72,  74)         DSIOUTP3: 0xD2'3 -         
- 73  (73,  75)         DSIOUTP3: 0xD2'   
- 74  (72,  74)         DSIOUTP3: 0xD2'3 - 
- 75  (73,  75)         DSIOUTP3: 0xD2'   
- 76  (76,  78)         DSIOUTP3: 0xD2'   
- 77  (77,  79)         DSIOUTP3: 0xD2'   
- 78  (76,  78)         DSIOUTP3: 0xD2'   
- 79  (77,  79)         DSIOUTP3: 0xD2'          
- 80  (80,  82, 84) bot DSIOUTT0: 0xD4'7 
- 81  (81,  83, 85) bot DSIOUTT0: 0xD4'6
- 82  (80,  82, 84) bot DSIOUTT0: 0xD4'5
- 83  (81,  83, 85) bot DSIOUTT0: 0xD4'4
- 84  (80,  82, 84) top DSIOUTT0: 0xD4'0
- 85  (81,  83, 85) top DSIOUTT0: 0xD4'1
- 86  (86,  88, 90) top DSIOUTT0: 0xD4'2
- 87  (87,  89, 91) top DSIOUTT0: 0xD4'3
- 88  (86,  88, 90) bot DSIOUTT1: 0xD6'4
- 89  (87,  89, 91) bot DSIOUTT1: 0xD6'5
- 90  (86,  88, 90) bot DSIOUTT1: 0xD6'6
- 91  (87,  89, 91) bot DSIOUTT1: 0xD6'7 
- 92  (92,  94, 96) top DSIOUTT1: 0xD6'3
- 93  (93,  95, 97) top DSIOUTT1: 0xD6'2
- 94  (92,  94, 96) top DSIOUTT1: 0xD6'1
- 95  (93,  95, 97) top DSIOUTT1: 0xD6'0
- 96  (92,  94, 96) bot DSIOUTT2: 0xD8'4 
- 97  (93,  95, 97) bot DSIOUTT2: 0xD8'5
- 98  (98, 100,102) bot DSIOUTT2: 0xD8'6
- 99  (99, 101,103) bot DSIOUTT2: 0xD8'7
-100  (98, 100,102) top DSIOUTT2: 0xD8'3
-101  (99, 101,103) top DSIOUTT2: 0xD8'2
-102  (98, 100,102) top DSIOUTT2: 0xD8'1
-103  (99, 101,103) top DSIOUTT2: 0xD8'0
-104  (104,106,108) top DSIOUTT3: 0xDA'0
-105  (105,107,109) top DSIOUTT3: 0xDA'1
-106  (104,106,108) top DSIOUTT3: 0xDA'2
-107  (105,107,109) top DSIOUTT3: 0xDA'3
-108  (104,106,108) bot DSIOUTT3: 0xDA'7
-109  (105,107,109) bot DSIOUTT3: 0xDA'6
-110  (110,112,114) bot DSIOUTT3: 0xDA'5
-111  (111,113,115) bot DSIOUTT3: 0xDA'4
-112  (110,112,114) top DSIOUTT4: 0xDC'0
-113  (111,113,115) top DSIOUTT4: 0xDC'1
-114  (110,112,114) top DSIOUTT4: 0xDC'2
-115  (111,113,115) top DSIOUTT4: 0xDC'3
-116  (116,118,120) bot DSIOUTT4: 0xDC'7
-117  (117,119,121) bot DSIOUTT4: 0xDC'6
-118  (116,118,120) bot DSIOUTT4: 0xDC'5
-119  (117,119,121) bot DSIOUTT4: 0xDC'4
-120  (116,118,120) top DSIOUTT5: 0xDE'3
-121  (117,119,121) top DSIOUTT5: 0xDE'2
-122  (122,124,126) top DSIOUTT5: 0xDE'1
-123  (123,125,127) top DSIOUTT5: 0xDE'0
-124  (122,124,126) bot DSIOUTT5: 0xDE'4
-125  (123,125,127) bot DSIOUTT5: 0xDE'5
-126  (122,124,126) bot DSIOUTT5: 0xDE'6
-127  (123,125,127) bot DSIOUTT5: 0xDE'7
+:pi_dsi   0  ( 0,   2)          DSIINP0: 0xC0'7, DSIINP0: 0xC0'0
+:pi_dsi   1  ( 1,   3)          DSIINP0: 0xC0'6, DSIINP0: 0xC0'1
+:pi_dsi   2  ( 0,   2)          DSIINP0: 0xC0'5, DSIINP0: 0xC0'2
+:pi_dsi   3  ( 1,   3)          DSIINP0: 0xC0'4, DSIINP0: 0xC0'3
+:pi_dsi   4  ( 4,   6)          DSIINP0: 0xC0'4, DSIINP0: 0xC0'3
+:pi_dsi   5  ( 5,   7)          DSIINP0: 0xC0'5, DSIINP0: 0xC0'2
+:pi_dsi   6  ( 4,   6)          DSIINP0: 0xC0'6, DSIINP0: 0xC0'1
+:pi_dsi   7  ( 5,   7)          DSIINP0: 0xC0'7, DSIINP0: 0xC0'0
+:pi_dsi   8  ( 8,  10)          DSIINP1: 0xC2'4, DSIINP1: 0xC2'3
+:pi_dsi   9  ( 9,  11)          DSIINP1: 0xC2'5, DSIINP1: 0xC2'2
+:pi_dsi  10  ( 8,  10)          DSIINP1: 0xC2'6, DSIINP1: 0xC2'1
+:pi_dsi  11  ( 9,  11)          DSIINP1: 0xC2'7, DSIINP1: 0xC2'0
+:pi_dsi  12  (12,  14)          DSIINP1: 0xC2'4, DSIINP1: 0xC2'3
+:pi_dsi  13  (13,  15)          DSIINP1: 0xC2'5, DSIINP1: 0xC2'2
+:pi_dsi  14  (12,  14)          DSIINP1: 0xC2'6, DSIINP1: 0xC2'1
+:pi_dsi  15  (13,  15)          DSIINP1: 0xC2'7, DSIINP1: 0xC2'0
+:pi_dsi  16  (16,  18)          DSIINP2: 0xC4'7, DSIINP2: 0xC4'0
+:pi_dsi  17  (17,  19)          DSIINP2: 0xC4'6, DSIINP2: 0xC4'1
+:pi_dsi  18  (16,  18)          DSIINP2: 0xC4'5, DSIINP2: 0xC4'2
+:pi_dsi  19  (17,  19)          DSIINP2: 0xC4'4, DSIINP2: 0xC4'3
+:pi_dsi  20  (20,  22)          DSIINP2: 0xC4'4, DSIINP2: 0xC4'3
+:pi_dsi  21  (21,  23)          DSIINP2: 0xC4'5, DSIINP2: 0xC4'2
+:pi_dsi  22  (20,  22)          DSIINP2: 0xC4'6, DSIINP2: 0xC4'1
+:pi_dsi  23  (21,  23)          DSIINP2: 0xC4'7, DSIINP2: 0xC4'0
+:pi_dsi  24  (24,  26)          DSIINP3: 0xC6'7, DSIINP3: 0xC6'0
+:pi_dsi  25  (25,  27)          DSIINP3: 0xC6'6, DSIINP3: 0xC6'1
+:pi_dsi  26  (24,  26)          DSIINP3: 0xC6'5, DSIINP3: 0xC6'2
+:pi_dsi  27  (25,  27)          DSIINP3: 0xC6'4, DSIINP3: 0xC6'3
+:pi_dsi  28  (28,  30)          DSIINP3: 0xC6'4, DSIINP3: 0xC6'3
+:pi_dsi  29  (29,  31)          DSIINP3: 0xC6'5, DSIINP3: 0xC6'2
+:pi_dsi  30  (28,  30)          DSIINP3: 0xC6'6, DSIINP3: 0xC6'1
+:pi_dsi  31  (29,  31)          DSIINP3: 0xC6'7, DSIINP3: 0xC6'0
+:pi_dsi  32  (32,  34)          DSIINP4: 0xC8'4, DSIINP4: 0xC8'3
+:pi_dsi  33  (33,  35)          DSIINP4: 0xC8'5, DSIINP4: 0xC8'2
+:pi_dsi  34  (32,  34)          DSIINP4: 0xC8'6, DSIINP4: 0xC8'1
+:pi_dsi  35  (33,  35)          DSIINP4: 0xC8'7, DSIINP4: 0xC8'0
+:pi_dsi  36  (36,  38)          DSIINP4: 0xC8'4, DSIINP4: 0xC8'3
+:pi_dsi  37  (37,  39)          DSIINP4: 0xC8'5, DSIINP4: 0xC8'2
+:pi_dsi  38  (36,  38)          DSIINP4: 0xC8'6, DSIINP4: 0xC8'1
+:pi_dsi  39  (37,  39)          DSIINP4: 0xC8'7, DSIINP4: 0xC8'0
+:pi_dsi  40  (40,  42)          DSIINP5: 0xCA'7, DSIINP5: 0xCA'0
+:pi_dsi  41  (41,  43)          DSIINP5: 0xCA'6, DSIINP5: 0xCA'1
+:pi_dsi  42  (40,  42)          DSIINP5: 0xCA'5, DSIINP5: 0xCA'2
+:pi_dsi  43  (41,  43)          DSIINP5: 0xCA'4, DSIINP5: 0xCA'3
+:pi_dsi  44  (44,  46)          DSIINP5: 0xCA'4, DSIINP5: 0xCA'3
+:pi_dsi  45  (45,  47)          DSIINP5: 0xCA'5, DSIINP5: 0xCA'2
+:pi_dsi  46  (44,  46)          DSIINP5: 0xCA'6, DSIINP5: 0xCA'1
+:pi_dsi  47  (45,  47)          DSIINP5: 0xCA'7, DSIINP5: 0xCA'0
+:pi_dsi  48  (48,  50)         DSIOUTP0: 0xCC'5 -
+:pi_dsi  49  (49,  51)         DSIOUTP0: 0xCC'6 -
+:pi_dsi  50  (48,  50)         DSIOUTP0: 0xCC'5 -
+:pi_dsi  51  (49,  51)         DSIOUTP0: 0xCC'6 -
+:pi_dsi  52  (52,  54)         DSIOUTP0: 0xCC'7 -
+:pi_dsi  53  (53,  55)         DSIOUTP0: 0xCE' 
+:pi_dsi  54  (52,  54)         DSIOUTP0: 0xCC'7 -
+:pi_dsi  55  (53,  55)         DSIOUTP0: 0xCC'
+:pi_dsi  56  (56,  58)         DSIOUTP1: 0xCE'7 -
+:pi_dsi  57  (57,  59)         DSIOUTP1: 0xCE'
+:pi_dsi  58  (56,  58)         DSIOUTP1: 0xCE'7 -
+:pi_dsi  59  (57,  59)         DSIOUTP1: 0xD0' 
+:pi_dsi  60  (60,  62)         DSIOUTP1: 0xD0' 
+:pi_dsi  61  (61,  63)         DSIOUTP1: 0xD0'5
+:pi_dsi  62  (60,  62)         DSIOUTP1: 0xD0'6
+:pi_dsi  63  (61,  63)         DSIOUTP1: 0xD2' 
+:pi_dsi  64  (64,  66)         DSIOUTP2: 0xD0' 
+:pi_dsi  65  (65,  67)         DSIOUTP2: 0xD0'4 -
+:pi_dsi  66  (64,  66)         DSIOUTP2: 0xD0' 
+:pi_dsi  67  (65,  67)         DSIOUTP2: 0xD0'4 -
+:pi_dsi  68  (68,  70)         DSIOUTP2: 0xD0'2 -
+:pi_dsi  69  (69,  71)         DSIOUTP2: 0xD0'
+:pi_dsi  70  (68,  70)         DSIOUTP2: 0xD0'2 -
+:pi_dsi  71  (69,  71)         DSIOUTP2: 0xD0'
+:pi_dsi  72  (72,  74)         DSIOUTP3: 0xD2'3 -         
+:pi_dsi  73  (73,  75)         DSIOUTP3: 0xD2'   
+:pi_dsi  74  (72,  74)         DSIOUTP3: 0xD2'3 - 
+:pi_dsi  75  (73,  75)         DSIOUTP3: 0xD2'   
+:pi_dsi  76  (76,  78)         DSIOUTP3: 0xD2'   
+:pi_dsi  77  (77,  79)         DSIOUTP3: 0xD2'   
+:pi_dsi  78  (76,  78)         DSIOUTP3: 0xD2'   
+:pi_dsi  79  (77,  79)         DSIOUTP3: 0xD2'          
+:pi_dsi  80  (80,  82, 84) bot DSIOUTT0: 0xD4'7 
+:pi_dsi  81  (81,  83, 85) bot DSIOUTT0: 0xD4'6
+:pi_dsi  82  (80,  82, 84) bot DSIOUTT0: 0xD4'5
+:pi_dsi  83  (81,  83, 85) bot DSIOUTT0: 0xD4'4
+:pi_dsi  84  (80,  82, 84) top DSIOUTT0: 0xD4'0
+:pi_dsi  85  (81,  83, 85) top DSIOUTT0: 0xD4'1
+:pi_dsi  86  (86,  88, 90) top DSIOUTT0: 0xD4'2
+:pi_dsi  87  (87,  89, 91) top DSIOUTT0: 0xD4'3
+:pi_dsi  88  (86,  88, 90) bot DSIOUTT1: 0xD6'4
+:pi_dsi  89  (87,  89, 91) bot DSIOUTT1: 0xD6'5
+:pi_dsi  90  (86,  88, 90) bot DSIOUTT1: 0xD6'6
+:pi_dsi  91  (87,  89, 91) bot DSIOUTT1: 0xD6'7 
+:pi_dsi  92  (92,  94, 96) top DSIOUTT1: 0xD6'3
+:pi_dsi  93  (93,  95, 97) top DSIOUTT1: 0xD6'2
+:pi_dsi  94  (92,  94, 96) top DSIOUTT1: 0xD6'1
+:pi_dsi  95  (93,  95, 97) top DSIOUTT1: 0xD6'0
+:pi_dsi  96  (92,  94, 96) bot DSIOUTT2: 0xD8'4 
+:pi_dsi  97  (93,  95, 97) bot DSIOUTT2: 0xD8'5
+:pi_dsi  98  (98, 100,102) bot DSIOUTT2: 0xD8'6
+:pi_dsi  99  (99, 101,103) bot DSIOUTT2: 0xD8'7
+:pi_dsi 100  (98, 100,102) top DSIOUTT2: 0xD8'3
+:pi_dsi 101  (99, 101,103) top DSIOUTT2: 0xD8'2
+:pi_dsi 102  (98, 100,102) top DSIOUTT2: 0xD8'1
+:pi_dsi 103  (99, 101,103) top DSIOUTT2: 0xD8'0
+:pi_dsi 104  (104,106,108) top DSIOUTT3: 0xDA'0
+:pi_dsi 105  (105,107,109) top DSIOUTT3: 0xDA'1
+:pi_dsi 106  (104,106,108) top DSIOUTT3: 0xDA'2
+:pi_dsi 107  (105,107,109) top DSIOUTT3: 0xDA'3
+:pi_dsi 108  (104,106,108) bot DSIOUTT3: 0xDA'7
+:pi_dsi 109  (105,107,109) bot DSIOUTT3: 0xDA'6
+:pi_dsi 110  (110,112,114) bot DSIOUTT3: 0xDA'5
+:pi_dsi 111  (111,113,115) bot DSIOUTT3: 0xDA'4
+:pi_dsi 112  (110,112,114) top DSIOUTT4: 0xDC'0
+:pi_dsi 113  (111,113,115) top DSIOUTT4: 0xDC'1
+:pi_dsi 114  (110,112,114) top DSIOUTT4: 0xDC'2
+:pi_dsi 115  (111,113,115) top DSIOUTT4: 0xDC'3
+:pi_dsi 116  (116,118,120) bot DSIOUTT4: 0xDC'7
+:pi_dsi 117  (117,119,121) bot DSIOUTT4: 0xDC'6
+:pi_dsi 118  (116,118,120) bot DSIOUTT4: 0xDC'5
+:pi_dsi 119  (117,119,121) bot DSIOUTT4: 0xDC'4
+:pi_dsi 120  (116,118,120) top DSIOUTT5: 0xDE'3
+:pi_dsi 121  (117,119,121) top DSIOUTT5: 0xDE'2
+:pi_dsi 122  (122,124,126) top DSIOUTT5: 0xDE'1
+:pi_dsi 123  (123,125,127) top DSIOUTT5: 0xDE'0
+:pi_dsi 124  (122,124,126) bot DSIOUTT5: 0xDE'4
+:pi_dsi 125  (123,125,127) bot DSIOUTT5: 0xDE'5
+:pi_dsi 126  (122,124,126) bot DSIOUTT5: 0xDE'6
+:pi_dsi 127  (123,125,127) bot DSIOUTT5: 0xDE'7
