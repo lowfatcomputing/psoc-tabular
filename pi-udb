@@ -1,128 +1,128 @@
-  0  u 0 0xC0 PLD0IN0              x 0x80 0x00 IT0
-  1  l 7 0xC0 PLD0IN0              x 0x80 0x00 IT0
-  2  u 1 0xC0 PLD0IN0              x 0x84 0x04 IT1
-  3  l 6 0xC0 PLD0IN0              x 0x84 0x04 IT1
-  4  u 2 0xC0 PLD0IN0              x 0x88 0x08 IT2
-  5  l 5 0xC0 PLD0IN0              x 0x88 0x08 IT2
-  6  u 3 0xC0 PLD0IN0              x 0x8C 0x0C IT3
-  7  l 4 0xC0 PLD0IN0              x 0x8C 0x0C IT3
-  8  u 0 0xC2 PLD0IN1              x 0x90 0x10 IT4
-  9  l 7 0xC2 PLD0IN1              x 0x90 0x10 IT4
- 10  u 1 0xC2 PLD0IN1              x 0x94 0x14 IT5
- 11  l 6 0xC2 PLD0IN1              x 0x94 0x14 IT5
- 12  u 2 0xC2 PLD0IN1              x 0x98 0x18 IT6
- 13  l 5 0xC2 PLD0IN1              x 0x98 0x18 IT6
- 14  u 3 0xC2 PLD0IN1              x 0x9C 0x1C IT7
- 15  l 4 0xC2 PLD0IN1              x 0x9C 0x1C IT7
- 16  u 0 0xC4 PLD0IN2              x 0xA0 0x20 IT8
- 17  l 7 0xC4 PLD0IN2              x 0xA0 0x20 IT8
- 18  u 1 0xC4 PLD0IN2              x 0xA4 0x24 IT9
- 19  l 6 0xC4 PLD0IN2              x 0xA4 0x24 IT9
- 20  u 2 0xC4 PLD0IN2              x 0xA8 0x28 IT10
- 21  l 5 0xC4 PLD0IN2              x 0xA8 0x28 IT10
- 22  u 3 0xC4 PLD0IN2              x 0xAC 0x2C IT11
- 23  l 4 0xC4 PLD0IN2              x 0xAC 0x2C IT11
- 24  u 0 0x3E U0_PLD0MC_CFG_BYPASS x      0x30 ORT0
- 25  l 0 0xBE U1_PLD0MC_CFG_BYPASS x      0xB0 ORT0
- 26  u 2 0x3E U0_PLD0MC_CFG_BYPASS x      0x32 ORT1
- 27  l 2 0xBE U1_PLD0MC_CFG_BYPASS x      0xB2 ORT1
- 28  u 4 0x3E U0_PLD0MC_CFG_BYPASS x      0x34 ORT2
- 29  l 4 0xBE U1_PLD0MC_CFG_BYPASS x      0xB4 ORT2
- 30  u 6 0x3E U0_PLD0MC_CFG_BYPASS x      0x36 ORT3
- 31  l 6 0xBE U1_PLD0MC_CFG_BYPASS x      0xB6 ORT3
- 32  u 6 0x3F U0_PLD1MC_CFG_BYPASS x      0x37 ORT3
- 33  l 6 0xBF U1_PLD1MC_CFG_BYPASS x      0xB7 ORT3
- 34  u 4 0x3F U0_PLD1MC_CFG_BYPASS x      0x35 ORT2
- 35  l 4 0xBF U1_PLD1MC_CFG_BYPASS x      0xB5 ORT2
- 36  u 2 0x3F U0_PLD1MC_CFG_BYPASS x      0x33 ORT1
- 37  l 2 0xBF U1_PLD1MC_CFG_BYPASS x      0xB3 ORT1
- 38  u 0 0x3F U0_PLD1MC_CFG_BYPASS x      0x31 ORT0
- 39  l 0 0xBF U1_PLD1MC_CFG_BYPASS x      0xB1 ORT0
- 40  u 3 0xCE PLD1IN2              x 0xAD 0x2D IT11
- 41  l 4 0xCE PLD1IN2              x 0xAD 0x2D IT11
- 42  u 2 0xCE PLD1IN2              x 0xA9 0x29 IT10
- 43  l 5 0xCE PLD1IN2              x 0xA9 0x29 IT10
- 44  u 1 0xCE PLD1IN2              x 0xA5 0x25 IT9
- 45  l 6 0xCE PLD1IN2              x 0xA5 0x25 IT9
- 46  u 0 0xCE PLD1IN2              x 0xA1 0x21 IT8
- 47  l 7 0xCE PLD1IN2              x 0xA1 0x21 IT8
- 48  u 3 0xCC PLD1IN1              x 0x9D 0x1D IT7
- 49  l 4 0xCC PLD1IN1              x 0x9D 0x1D IT7
- 50  u 2 0xCC PLD1IN1              x 0x99 0x19 IT6
- 51  l 5 0xCC PLD1IN1              x 0x99 0x19 IT6
- 52  u 1 0xCC PLD1IN1              x 0x95 0x15 IT5
- 53  l 6 0xCC PLD1IN1              x 0x95 0x15 IT5
- 54  u 0 0xCC PLD1IN1              x 0x91 0x11 IT4
- 55  l 7 0xCC PLD1IN1              x 0x91 0x11 IT4
- 56  u 3 0xCA PLD1IN0              x 0x8D 0x0D IT3
- 57  l 7 0xCA PLD1IN0              x 0x8D 0x0D IT3
- 58  u 6 0xCA PLD1IN0              x 0x89 0x09 IT2
- 59  l 3 0xCA PLD1IN0              x 0x89 0x09 IT2
- 60  u 1 0xCA PLD1IN0              x 0x85 0x05 IT1
- 61  l 5 0xCA PLD1IN0              x 0x85 0x05 IT1
- 62  u 0 0xCA PLD1IN0              x 0x81 0x01 IT0
- 63  l 4 0xCA PLD1IN0              x 0x81 0x01 IT0
- 64  u 0 0xD0 DPIN0
- 65  l 7 0xD0 DPIN0
- 66  u 1 0xD0 DPIN0
- 67  l 6 0xD0 DPIN0
- 68  u 2 0xD0 DPIN0
- 69  l 5 0xD0 DPIN0
- 70  u 3 0xD0 DPIN0
- 71  l 4 0xD0 DPIN0
- 72  u 2 0xD2 DPIN1
- 73  l 4 0xD2 DPIN1
- 74  u 3 0xD2 DPIN1
- 75  l 5 0xD2 DPIN1
- 76  u        DPOUT
- 77  l        DPOUT
- 78  u        DPOUT
- 79  l        DPOUT
- 80  u        DPOUT
- 81  l        DPOUT
- 82  u        DPOUT
- 83  l        DPOUT
- 84  u        DPOUT
- 85  l        DPOUT
- 86  u        DPOUT
- 87  l        DPOUT
- 88  u 0 0xD6 SCIN
- 89  l 7 0xD6 SCIN
- 90  u 0 0xD6 SCIN
- 91  l 7 0xD6 SCIN
- 92  u 1 0xD6 SCIN
- 93  l 6 0xD6 SCIN
- 94  u 1 0xD6 SCIN
- 95  l 6 0xD6 SCIN
- 96  u 2 0xD6 SCIN
- 97  l 5 0xD6 SCIN
- 98  u 2 0xD6 SCIN
- 99  l 5 0xD6 SCIN
-100  u 3 0xD6 SCIN
-101  l 4 0xD6 SCIN
-102  u 3 0xD6 SCIN
-103  l 4 0xD6 SCIN
-104  u        CTL
-105  l        CTL
-106  u        CTL
-107  l        CTL
-108  u        CTL
-109  l        CTL
-110  u        CTL
-111  l        CTL
-112  u        CTL
-113  l        CTL
-114  u        CTL
-115  l        CTL
-116  u        CTL
-117  l        CTL
-118  u        CTL
-119  l        CTL
-120  u 0 0xDE RCIN
-121  l 7 0xDE RCIN
-122  u 1 0xDE RCIN
-123  l 6 0xDE RCIN
-124  u 2 0xDE RCIN
-125  l 5 0xDE RCIN
-126  u 3 0xDE RCIN
-127  l 4 0xDE RCIN
+  0  u 0 0xC0 i ROUTE_PLD0IN0             
+  1  l 7 0xC0 i ROUTE_PLD0IN0             
+  2  u 1 0xC0 i ROUTE_PLD0IN0             
+  3  l 6 0xC0 i ROUTE_PLD0IN0             
+  4  u 2 0xC0 i ROUTE_PLD0IN0             
+  5  l 5 0xC0 i ROUTE_PLD0IN0             
+  6  u 3 0xC0 i ROUTE_PLD0IN0             
+  7  l 4 0xC0 i ROUTE_PLD0IN0             
+  8  u 0 0xC2 i ROUTE_PLD0IN1             
+  9  l 7 0xC2 i ROUTE_PLD0IN1             
+ 10  u 1 0xC2 i ROUTE_PLD0IN1             
+ 11  l 6 0xC2 i ROUTE_PLD0IN1             
+ 12  u 2 0xC2 i ROUTE_PLD0IN1             
+ 13  l 5 0xC2 i ROUTE_PLD0IN1             
+ 14  u 3 0xC2 i ROUTE_PLD0IN1             
+ 15  l 4 0xC2 i ROUTE_PLD0IN1             
+ 16  u 0 0xC4 i ROUTE_PLD0IN2             
+ 17  l 7 0xC4 i ROUTE_PLD0IN2             
+ 18  u 1 0xC4 i ROUTE_PLD0IN2             
+ 19  l 6 0xC4 i ROUTE_PLD0IN2             
+ 20  u 2 0xC4 i ROUTE_PLD0IN2             
+ 21  l 5 0xC4 i ROUTE_PLD0IN2             
+ 22  u 3 0xC4 i ROUTE_PLD0IN2             
+ 23  l 4 0xC4 i ROUTE_PLD0IN2             
+ 24  u 0 0x3E o U0_PLD0MC_CFG_BYPASS
+ 25  l 0 0xBE o U1_PLD0MC_CFG_BYPASS
+ 26  u 2 0x3E o U0_PLD0MC_CFG_BYPASS
+ 27  l 2 0xBE o U1_PLD0MC_CFG_BYPASS
+ 28  u 4 0x3E o U0_PLD0MC_CFG_BYPASS
+ 29  l 4 0xBE o U1_PLD0MC_CFG_BYPASS
+ 30  u 6 0x3E o U0_PLD0MC_CFG_BYPASS
+ 31  l 6 0xBE o U1_PLD0MC_CFG_BYPASS
+ 32  u 6 0x3F o U0_PLD1MC_CFG_BYPASS
+ 33  l 6 0xBF o U1_PLD1MC_CFG_BYPASS
+ 34  u 4 0x3F o U0_PLD1MC_CFG_BYPASS
+ 35  l 4 0xBF o U1_PLD1MC_CFG_BYPASS
+ 36  u 2 0x3F o U0_PLD1MC_CFG_BYPASS
+ 37  l 2 0xBF o U1_PLD1MC_CFG_BYPASS
+ 38  u 0 0x3F o U0_PLD1MC_CFG_BYPASS
+ 39  l 0 0xBF o U1_PLD1MC_CFG_BYPASS
+ 40  u 3 0xCE i ROUTE_PLD1IN2             
+ 41  l 4 0xCE i ROUTE_PLD1IN2             
+ 42  u 2 0xCE i ROUTE_PLD1IN2             
+ 43  l 5 0xCE i ROUTE_PLD1IN2             
+ 44  u 1 0xCE i ROUTE_PLD1IN2             
+ 45  l 6 0xCE i ROUTE_PLD1IN2             
+ 46  u 0 0xCE i ROUTE_PLD1IN2             
+ 47  l 7 0xCE i ROUTE_PLD1IN2             
+ 48  u 3 0xCC i ROUTE_PLD1IN1             
+ 49  l 4 0xCC i ROUTE_PLD1IN1             
+ 50  u 2 0xCC i ROUTE_PLD1IN1             
+ 51  l 5 0xCC i ROUTE_PLD1IN1             
+ 52  u 1 0xCC i ROUTE_PLD1IN1             
+ 53  l 6 0xCC i ROUTE_PLD1IN1             
+ 54  u 0 0xCC i ROUTE_PLD1IN1             
+ 55  l 7 0xCC i ROUTE_PLD1IN1             
+ 56  u 3 0xCA i ROUTE_PLD1IN0             
+ 57  l 7 0xCA i ROUTE_PLD1IN0             
+ 58  u 6 0xCA i ROUTE_PLD1IN0             
+ 59  l 3 0xCA i ROUTE_PLD1IN0             
+ 60  u 1 0xCA i ROUTE_PLD1IN0             
+ 61  l 5 0xCA i ROUTE_PLD1IN0             
+ 62  u 0 0xCA i ROUTE_PLD1IN0             
+ 63  l 4 0xCA i ROUTE_PLD1IN0             
+ 64  u 0 0xD0 i ROUTE_DPIN0               
+ 65  l 7 0xD0 i ROUTE_DPIN0               
+ 66  u 1 0xD0 i ROUTE_DPIN0               
+ 67  l 6 0xD0 i ROUTE_DPIN0               
+ 68  u 2 0xD0 i ROUTE_DPIN0               
+ 69  l 5 0xD0 i ROUTE_DPIN0               
+ 70  u 3 0xD0 i ROUTE_DPIN0               
+ 71  l 4 0xD0 i ROUTE_DPIN0               
+ 72  u 2 0xD2 i ROUTE_DPIN1               
+ 73  l 4 0xD2 i ROUTE_DPIN1               
+ 74  u 3 0xD2 i ROUTE_DPIN1               
+ 75  l 5 0xD2 i ROUTE_DPIN1               
+ 76  u        o DPOUT               
+ 77  l        o DPOUT               
+ 78  u        o DPOUT               
+ 79  l        o DPOUT               
+ 80  u        o DPOUT               
+ 81  l        o DPOUT               
+ 82  u        o DPOUT               
+ 83  l        o DPOUT               
+ 84  u        o DPOUT               
+ 85  l        o DPOUT               
+ 86  u        o DPOUT               
+ 87  l        o DPOUT               
+ 88  u 0 0xD6 i ROUTE_SCIN                
+ 89  l 7 0xD6 i ROUTE_SCIN                
+ 90  u 0 0xD6 i ROUTE_SCIN                
+ 91  l 7 0xD6 i ROUTE_SCIN                
+ 92  u 1 0xD6 i ROUTE_SCIN                
+ 93  l 6 0xD6 i ROUTE_SCIN                
+ 94  u 1 0xD6 i ROUTE_SCIN                
+ 95  l 6 0xD6 i ROUTE_SCIN                
+ 96  u 2 0xD6 i ROUTE_SCIN                
+ 97  l 5 0xD6 i ROUTE_SCIN                
+ 98  u 2 0xD6 i ROUTE_SCIN                
+ 99  l 5 0xD6 i ROUTE_SCIN                
+100  u 3 0xD6 i ROUTE_SCIN                
+101  l 4 0xD6 i ROUTE_SCIN                
+102  u 3 0xD6 i ROUTE_SCIN                
+103  l 4 0xD6 i ROUTE_SCIN                
+104  u        o CTL                 
+105  l        o CTL                 
+106  u        o CTL                 
+107  l        o CTL                 
+108  u        o CTL                 
+109  l        o CTL                 
+110  u        o CTL                 
+111  l        o CTL                 
+112  u        o CTL                 
+113  l        o CTL                 
+114  u        o CTL                 
+115  l        o CTL                 
+116  u        o CTL                 
+117  l        o CTL                 
+118  u        o CTL                 
+119  l        o CTL                 
+120  u 0 0xDE i ROUTE_RCIN                
+121  l 7 0xDE i ROUTE_RCIN                
+122  u 1 0xDE i ROUTE_RCIN                
+123  l 6 0xDE i ROUTE_RCIN                
+124  u 2 0xDE i ROUTE_RCIN                
+125  l 5 0xDE i ROUTE_RCIN                
+126  u 3 0xDE i ROUTE_RCIN                
+127  l 4 0xDE i ROUTE_RCIN                

@@ -2,9 +2,7 @@
 
 ## HV - Horizontal-to-Vertical
 
-`hvb` and `hva` are sorted by vertical wire (col). These are the fields:
-
-    col row bit reg name
+    udb-a/b row col bit reg_offset reg_name direction
 
 ## HC - Horizontal Channel
 
@@ -12,8 +10,8 @@
 
     col row direction bit reg name
 
-`d` means forw/back
-`n` means the hc switch is below a UDB output
+`i` means the hc switch is between udb inputs
+`o` means the hc switch is between udb outputs
 
 ## HS - Horizontal Segmentation
 
@@ -31,11 +29,15 @@
 
 Routing pairs follow a checkerboard pattern starting with **b** in the top left corner. This is important for selecting **hva** or **hvb**.
 
-    col row b/a reg name
+    row col b/a bank reg name
 
 ## pi-udb - Port Interfacing between Horizontal Channel and UDB's
 
-    col u/l bit reg name bit reg name ...
+    col u/l bit reg i/o name
+
+## udb - internal udb logic
+
+    col bit 0x80 0x00 IT0
 
 You will notice two registers for each IT. The +0x80 register is for U1 UDB's and the other is for U0 UDB's.
 
